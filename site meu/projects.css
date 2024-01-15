@@ -1,0 +1,35 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+.python1{
+    display: flex;
+    justify-content:space-around;
+    list-style-type: none;
+    align-items:center;
+    padding: 15px;
+
+    color: rgb(0, 255, 17);
+    font-size: larger;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    text-decoration: none;
+}
+
+.texto p{
+    font-size: larger;
+    font-family: sans-serif;
+    padding-inline-start: 15px;
+    padding: 12px;
+    color: rgb(0, 255, 8);
+}
+
+.codigo2{
+    font-size: larger;
+    font-family: sans-serif;
+    display: flex;
+    color: rgb(0, 255, 8);
+    padding-inline-start: 15px;
+}
+
